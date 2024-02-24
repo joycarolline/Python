@@ -1,4 +1,4 @@
-'''Peça ao usuário para informar o ano de nascimento.
+'''2. Peça ao usuário para informar o ano de nascimento.
 Em seguida, calcule e imprima a idade atual.'''
 
 print("Descubra a sua idade no ano de 2024:  \n")
